@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/mextirin/PSMP1/main/main?token=GHSAT0AAAAAABRRDQUA64IBRUEIFDDOEYLWYQXTFOQ"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/mextirin/PSMP1-2/main/main"))()
